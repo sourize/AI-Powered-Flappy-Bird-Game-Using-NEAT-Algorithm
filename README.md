@@ -1,4 +1,4 @@
-# AI-Powered-Flappy-Bird-Game-Using-NEAT-Algorithm
+# Flappy AI : Using NEAT Algorithm
 
 **Objective:**
 To develop an AI agent that can play the Flappy Bird game autonomously using the NEAT (NeuroEvolution of Augmenting Topologies) algorithm for neural network evolution.
