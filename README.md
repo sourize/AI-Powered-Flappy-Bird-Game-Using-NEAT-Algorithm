@@ -6,6 +6,8 @@ To develop an AI agent that can play the Flappy Bird game autonomously using the
 **Description:**
 This project utilizes the NEAT algorithm to train a neural network that controls the bird in the Flappy Bird game. The AI agent learns to navigate through pipes by evolving its neural network over multiple generations.
 
+[FlappyBird](/FlappyBird.mp4)
+
 **Steps Involved:**
 
 1. **Setup and Initialization:**
